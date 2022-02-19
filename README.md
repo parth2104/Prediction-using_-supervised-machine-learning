@@ -1,0 +1,2 @@
+# Prediction-using_-supervised-machine-learning
+The Sparks Foundation - Data Science and Business Analytics Internship BY : Parth Harishbhai Barot|  The Sparks Foundation - Data Science and Business Analytics Internship BY : Parth Harishbhai Barot  Task 1 - Prediction using Supervised Machine Learning  Aim: Predict the percentage of an student based on the number of study hours. This is a simple linear regression task as it involves just 2 variables. Question:What will be predicted score if a student studies for 9.25hr/day. Dataset link: http://bit.ly/w-data
